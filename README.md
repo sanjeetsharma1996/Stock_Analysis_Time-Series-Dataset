@@ -16,7 +16,7 @@ I have analysed the stocks of four tech giants that includes the opening price a
 
 6.Analyse whether stock prices of these tech companies (Amazon, Apple, Google, Microsoft) are correlated or not!
 
-7. Analyse the daily returns of each stock and how they are corelated.
+7.Analyse the daily returns of each stock and how they are corelated.
 
 8.Value at risk analysis for tech companies.
 
